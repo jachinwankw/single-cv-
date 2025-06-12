@@ -1,3 +1,7 @@
+### Live Demo
+Explore the project in action:
+https://github.com/jachinwankw/single-cv-
+
 What’s Inside
  1. index.html
 
@@ -45,7 +49,3 @@ You can customize the content and styling
  Editing the text in `index.html` to reflect your own CV details.
  Updating or expanding styles in `styless.css` (e.g., colors, fonts, layout).
  Adding a profile photo or links (GitHub, LinkedIn) for a more complete profile.
-
-### Live Demo
-Explore the project in action:
-https://github.com/jachinwankw/single-cv-
