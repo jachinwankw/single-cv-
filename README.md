@@ -1,3 +1,6 @@
+Disclaimer:
+All institutions, organizations, dates, and roles mentioned are entirely fictional and created for demonstration purposes only. Any resemblance to actual persons, places, or events is purely coincidental.
+
 ### Live Demo
 Explore the project in action:
 https://jachinwankw.github.io/single-cv-/
