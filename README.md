@@ -46,4 +46,6 @@ You can customize the content and styling
  Updating or expanding styles in `styless.css` (e.g., colors, fonts, layout).
  Adding a profile photo or links (GitHub, LinkedIn) for a more complete profile.
 
- https://github.com/jachinwankw/single-cv-
+### Live Demo
+Explore the project in action:
+https://github.com/jachinwankw/single-cv-
