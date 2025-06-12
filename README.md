@@ -1,6 +1,6 @@
 ### Live Demo
 Explore the project in action:
-https://github.com/jachinwankw/single-cv-
+https://jachinwankw.github.io/single-cv-/
 
 What’s Inside
  1. index.html
