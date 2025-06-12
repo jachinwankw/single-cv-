@@ -40,8 +40,10 @@ This project is a great way to:
  Create a professional-looking page with minimal code.
 
   How to Customize
-You can customize the content and styling by:
+You can customize the content and styling
 
  Editing the text in `index.html` to reflect your own CV details.
  Updating or expanding styles in `styless.css` (e.g., colors, fonts, layout).
  Adding a profile photo or links (GitHub, LinkedIn) for a more complete profile.
+
+ https://github.com/jachinwankw/single-cv-
